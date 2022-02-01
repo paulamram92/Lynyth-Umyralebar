@@ -1,0 +1,17 @@
+body
+{
+    background-color: azure;
+    align-content: center;
+}
+
+#main
+{
+    width: 1080px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+#upper
+{
+    align-content: center;
+}
